@@ -10,3 +10,8 @@ display_board(board)
 # Make sure to execute #play below
 
 play(board)
+while board <= 9
+  puts "#{turn}"
+  board += 1
+end 
+  
