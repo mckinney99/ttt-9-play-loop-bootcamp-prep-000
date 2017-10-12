@@ -8,8 +8,10 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
 # Make sure to execute #play below
+turn = 0
 
 def play(board)
 while turn <= 9
   turn += 1
+  puts "#{turn}"
 end
