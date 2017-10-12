@@ -11,4 +11,3 @@ display_board(board)
 turn = 0
 
 play(board)
-
