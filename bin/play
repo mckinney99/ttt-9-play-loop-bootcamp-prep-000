@@ -14,4 +14,3 @@ while board <= 9
   puts "#{turn}"
   board += 1
 end 
-  
